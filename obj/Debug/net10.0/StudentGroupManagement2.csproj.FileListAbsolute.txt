@@ -1,0 +1,30 @@
+D:\projects\cs\ПРАКТИКА\Pracktuchna №1_Міщук_Артем_Віталійович\Pracktuchna_2_Міщук_Артем_Віталійович\bin\Debug\net10.0\StudentGroupManagement2.exe
+D:\projects\cs\ПРАКТИКА\Pracktuchna №1_Міщук_Артем_Віталійович\Pracktuchna_2_Міщук_Артем_Віталійович\bin\Debug\net10.0\StudentGroupManagement2.deps.json
+D:\projects\cs\ПРАКТИКА\Pracktuchna №1_Міщук_Артем_Віталійович\Pracktuchna_2_Міщук_Артем_Віталійович\bin\Debug\net10.0\StudentGroupManagement2.runtimeconfig.json
+D:\projects\cs\ПРАКТИКА\Pracktuchna №1_Міщук_Артем_Віталійович\Pracktuchna_2_Міщук_Артем_Віталійович\bin\Debug\net10.0\StudentGroupManagement2.dll
+D:\projects\cs\ПРАКТИКА\Pracktuchna №1_Міщук_Артем_Віталійович\Pracktuchna_2_Міщук_Артем_Віталійович\bin\Debug\net10.0\StudentGroupManagement2.pdb
+D:\projects\cs\ПРАКТИКА\Pracktuchna №1_Міщук_Артем_Віталійович\Pracktuchna_2_Міщук_Артем_Віталійович\obj\Debug\net10.0\StudentGroupManagement2.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\cs\ПРАКТИКА\Pracktuchna №1_Міщук_Артем_Віталійович\Pracktuchna_2_Міщук_Артем_Віталійович\obj\Debug\net10.0\StudentGroupManagement2.AssemblyInfoInputs.cache
+D:\projects\cs\ПРАКТИКА\Pracktuchna №1_Міщук_Артем_Віталійович\Pracktuchna_2_Міщук_Артем_Віталійович\obj\Debug\net10.0\StudentGroupManagement2.AssemblyInfo.cs
+D:\projects\cs\ПРАКТИКА\Pracktuchna №1_Міщук_Артем_Віталійович\Pracktuchna_2_Міщук_Артем_Віталійович\obj\Debug\net10.0\StudentGroupManagement2.csproj.CoreCompileInputs.cache
+D:\projects\cs\ПРАКТИКА\Pracktuchna №1_Міщук_Артем_Віталійович\Pracktuchna_2_Міщук_Артем_Віталійович\obj\Debug\net10.0\StudentGroupManagement2.sourcelink.json
+D:\projects\cs\ПРАКТИКА\Pracktuchna №1_Міщук_Артем_Віталійович\Pracktuchna_2_Міщук_Артем_Віталійович\obj\Debug\net10.0\StudentGroupManagement2.dll
+D:\projects\cs\ПРАКТИКА\Pracktuchna №1_Міщук_Артем_Віталійович\Pracktuchna_2_Міщук_Артем_Віталійович\obj\Debug\net10.0\refint\StudentGroupManagement2.dll
+D:\projects\cs\ПРАКТИКА\Pracktuchna №1_Міщук_Артем_Віталійович\Pracktuchna_2_Міщук_Артем_Віталійович\obj\Debug\net10.0\StudentGroupManagement2.pdb
+D:\projects\cs\ПРАКТИКА\Pracktuchna №1_Міщук_Артем_Віталійович\Pracktuchna_2_Міщук_Артем_Віталійович\obj\Debug\net10.0\StudentGroupManagement2.genruntimeconfig.cache
+D:\projects\cs\ПРАКТИКА\Pracktuchna №1_Міщук_Артем_Віталійович\Pracktuchna_2_Міщук_Артем_Віталійович\obj\Debug\net10.0\ref\StudentGroupManagement2.dll
+D:\projects\cs\ПРАКТИКА\Pracktuchna_2_Міщук_Артем_Віталійович\bin\Debug\net10.0\StudentGroupManagement2.exe
+D:\projects\cs\ПРАКТИКА\Pracktuchna_2_Міщук_Артем_Віталійович\bin\Debug\net10.0\StudentGroupManagement2.deps.json
+D:\projects\cs\ПРАКТИКА\Pracktuchna_2_Міщук_Артем_Віталійович\bin\Debug\net10.0\StudentGroupManagement2.runtimeconfig.json
+D:\projects\cs\ПРАКТИКА\Pracktuchna_2_Міщук_Артем_Віталійович\bin\Debug\net10.0\StudentGroupManagement2.dll
+D:\projects\cs\ПРАКТИКА\Pracktuchna_2_Міщук_Артем_Віталійович\bin\Debug\net10.0\StudentGroupManagement2.pdb
+D:\projects\cs\ПРАКТИКА\Pracktuchna_2_Міщук_Артем_Віталійович\obj\Debug\net10.0\StudentGroupManagement2.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\cs\ПРАКТИКА\Pracktuchna_2_Міщук_Артем_Віталійович\obj\Debug\net10.0\StudentGroupManagement2.AssemblyInfoInputs.cache
+D:\projects\cs\ПРАКТИКА\Pracktuchna_2_Міщук_Артем_Віталійович\obj\Debug\net10.0\StudentGroupManagement2.AssemblyInfo.cs
+D:\projects\cs\ПРАКТИКА\Pracktuchna_2_Міщук_Артем_Віталійович\obj\Debug\net10.0\StudentGroupManagement2.csproj.CoreCompileInputs.cache
+D:\projects\cs\ПРАКТИКА\Pracktuchna_2_Міщук_Артем_Віталійович\obj\Debug\net10.0\StudentGroupManagement2.sourcelink.json
+D:\projects\cs\ПРАКТИКА\Pracktuchna_2_Міщук_Артем_Віталійович\obj\Debug\net10.0\StudentGroupManagement2.dll
+D:\projects\cs\ПРАКТИКА\Pracktuchna_2_Міщук_Артем_Віталійович\obj\Debug\net10.0\refint\StudentGroupManagement2.dll
+D:\projects\cs\ПРАКТИКА\Pracktuchna_2_Міщук_Артем_Віталійович\obj\Debug\net10.0\StudentGroupManagement2.pdb
+D:\projects\cs\ПРАКТИКА\Pracktuchna_2_Міщук_Артем_Віталійович\obj\Debug\net10.0\StudentGroupManagement2.genruntimeconfig.cache
+D:\projects\cs\ПРАКТИКА\Pracktuchna_2_Міщук_Артем_Віталійович\obj\Debug\net10.0\ref\StudentGroupManagement2.dll
