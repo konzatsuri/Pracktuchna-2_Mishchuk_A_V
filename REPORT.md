@@ -1,6 +1,3 @@
-# Звіт з практичної роботи №2
-**Тема:** Масиви. Одновимірні та двовимірні масиви в C#. Організація портів вводу/виводу. Робота з рядками. Клас StringBuilder.
-
 ## 1. Відповіді на контрольні запитання
 
 ### 1.1. Різниця між одновимірними та двовимірними масивами
@@ -32,10 +29,11 @@
 Опановано роботу з двовимірними масивами, глибоке використання `StringBuilder` для генерації великих звітів, реалізацію інтерфейсу `ICloneable` та обробку власних винятків.
 
 ## 2. Git Статистика
-*   **Кількість створених гілок:** 9 (`main`, `develop`, `feature/student-lab-grades`, `feature/port-class`, `feature/port-matrix`, `feature/stringbuilder-logger`, `feature/menu-integration`, `feature/persistence`, `feature/refactoring`)
-*   **Кількість нових комітів для ПР №2:** 7
-*   **Тег:** `v2.0`
-*   **Посилання на репозиторій:** [GitHub Link Placeholder]
 
-## 3. Результати роботи
-![Screen 1](file:///d:/projects/cs/ПРАКТИКА/Pracktuchna_2_Міщук_Артем_Віталійович/im2131age.png)
+*   **Кількість створених гілок:** 9 (`main`, `develop`, `feature/student-lab-grades`, `feature/port-class`, `feature/port-matrix`, `feature/stringbuilder-logger`, `feature/menu-integration`, `feature/persistence`, `feature/refactoring`)
+
+**Посилання на репозиторій:** [GitHub Link Placeholder]
+
+![Screen 1](im2131age.png)
+
+
