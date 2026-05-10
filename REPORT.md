@@ -32,7 +32,7 @@
 
 *   **Кількість створених гілок:** 9 (`main`, `develop`, `feature/student-lab-grades`, `feature/port-class`, `feature/port-matrix`, `feature/stringbuilder-logger`, `feature/menu-integration`, `feature/persistence`, `feature/refactoring`)
 
-**Посилання на репозиторій:** [GitHub Link Placeholder]
+**Посилання на репозиторій:** [[GitHub Link Placeholder](https://github.com/konzatsuri/Pracktuchna-2_Mishchuk_A_V)]
 
 ![Screen 1](im2131age.png)
 
