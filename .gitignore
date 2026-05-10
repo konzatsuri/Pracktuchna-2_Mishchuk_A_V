@@ -1,0 +1,11 @@
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.doccache
+*.suo
+.vs/
+.idea/
+.vscode/
+*.json
+!*_PR2_data.json
